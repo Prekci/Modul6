@@ -1,0 +1,15 @@
+D:\ПРАКТИКА\Гончаренко Д модуль 6\Задание 1\bin\Debug\Задание 1.exe.config
+D:\ПРАКТИКА\Гончаренко Д модуль 6\Задание 1\bin\Debug\Задание 1.exe
+D:\ПРАКТИКА\Гончаренко Д модуль 6\Задание 1\bin\Debug\Задание 1.pdb
+D:\ПРАКТИКА\Гончаренко Д модуль 6\Задание 1\obj\Debug\Задание 1.csproj.AssemblyReference.cache
+D:\ПРАКТИКА\Гончаренко Д модуль 6\Задание 1\obj\Debug\MainWindow.g.cs
+D:\ПРАКТИКА\Гончаренко Д модуль 6\Задание 1\obj\Debug\App.g.cs
+D:\ПРАКТИКА\Гончаренко Д модуль 6\Задание 1\obj\Debug\Задание 1_MarkupCompile.cache
+D:\ПРАКТИКА\Гончаренко Д модуль 6\Задание 1\obj\Debug\Задание 1_MarkupCompile.lref
+D:\ПРАКТИКА\Гончаренко Д модуль 6\Задание 1\obj\Debug\MainWindow.baml
+D:\ПРАКТИКА\Гончаренко Д модуль 6\Задание 1\obj\Debug\Задание 1.g.resources
+D:\ПРАКТИКА\Гончаренко Д модуль 6\Задание 1\obj\Debug\Задание_1.Properties.Resources.resources
+D:\ПРАКТИКА\Гончаренко Д модуль 6\Задание 1\obj\Debug\Задание 1.csproj.GenerateResource.cache
+D:\ПРАКТИКА\Гончаренко Д модуль 6\Задание 1\obj\Debug\Задание 1.csproj.CoreCompileInputs.cache
+D:\ПРАКТИКА\Гончаренко Д модуль 6\Задание 1\obj\Debug\Задание 1.exe
+D:\ПРАКТИКА\Гончаренко Д модуль 6\Задание 1\obj\Debug\Задание 1.pdb
